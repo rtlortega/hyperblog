@@ -7,4 +7,3 @@ Blog De Curso Git Y Github De [Platzi](http://platzi.com/ "Platzi").
 En este curso veremos de todo.
 Este "**readme.md**" es un chiste.
 :fa-heart:
-...

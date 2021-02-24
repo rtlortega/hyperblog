@@ -8,3 +8,4 @@ Blog De Curso Git Y Github De [Platzi](http://platzi.com/ "Platzi").
 Este "**readme.md**" es un chiste.
 * Creado por la increíble Laura Rosina
 * Incluye ejemplos en Windows Linux y Mac
+* Disponible para todas las edades 
